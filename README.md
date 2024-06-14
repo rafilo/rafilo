@@ -13,7 +13,9 @@
 
 ###
 
-<p align="left">I'm Sherry, a newbie software developer who hopes to stay "newbie" and willing to learn more about the software development<br><br>- 📚 I'm currently learning Next.js and other full-stack frameworks for making new interesting application toys (through the process of getting rid of bugs)😖<br>- ⚡ In my free time, I sometimes draws 🎨, and now is also learning UI/UX design</p>
+<p align="left">I'm Sherry, a newbie software developer who hopes to stay "newbie" and willing to learn more about the software development
+  <br><br>- 📚 I'm currently learning Next.js, .net and Laravel for making new interesting application toys (through the process of getting rid of bugs)😖<br>- ⚡ In my free time, I sometimes draws 🎨, and also learning UI/UX design now.<br> - Now I've joined a team to build up the platform that helps uni clubs to manage their events and networking with members!
+</p>
 
 ###
 
